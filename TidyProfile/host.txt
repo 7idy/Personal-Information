@@ -1,0 +1,4 @@
+Tên host: files.000webhost.com
+Tên miền: https://nlgboo.000webhostapp.com/
+Port: 21
+UserName: nlgboo
